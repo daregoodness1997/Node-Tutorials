@@ -1,4 +1,3 @@
+const log = require("./logger");
 
-
-var message = "";
-console.log(global.message);
+log("Hello Dare");
